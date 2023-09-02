@@ -1,3 +1,2 @@
-A budegting app that keeps your team on pace for winning seasons...and career.
-
-...stay tuned for more!
+# A simple Svelte single-page-app
+A budegting app that keeps your 'home team' on pace for a winning season, year over year.
